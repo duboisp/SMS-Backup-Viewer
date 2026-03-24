@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+venv/
+env/
+.venv/
+.env
+
+# PyInstaller build artifacts
+dist/
+build/
+*.spec
+*.ico
+*.exe
+*.bat
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sample/test data
+sample_*.xml
+
+# Logs
+*.log
