@@ -53,7 +53,16 @@ Privacy was a core motivation for building this app locally rather than relying 
 
 ## Screenshots
 
-*Coming soon*
+<img width="1166" height="814" alt="image" src="https://github.com/user-attachments/assets/73f64e18-cf0d-4e9d-a03c-9e015784ecbf" />
+
+**SMS/MMS Viewer**
+<img width="1330" height="875" alt="image" src="https://github.com/user-attachments/assets/d98544d4-bbe3-4a97-b062-4eca9a50b428" />
+
+**Media Gallery**
+<img width="1330" height="875" alt="image" src="https://github.com/user-attachments/assets/fe1a7cc4-c36f-4e28-8325-cf911228bb7d" />
+
+**Call Log Viewer**
+<img width="1330" height="875" alt="image" src="https://github.com/user-attachments/assets/ef428f20-e20f-4eef-9957-2ac25936fbc4" />
 
 ## License
 
