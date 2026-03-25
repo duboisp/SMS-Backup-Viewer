@@ -1,7 +1,9 @@
 # SMS Backup Viewer
 
-A privacy-first, offline viewer for **SMS Backup & Restore** XML backup files.
-All processing happens locally on your machine — no uploads, no internet required.
+A fast, privacy-first, offline viewer for **SMS Backup & Restore** XML backup files.
+All processing happens locally on your machine — no uploads, no internet required, no waiting.
+
+This personal project was born out of frustration with how slow the official web-based SMS Backup & Restore viewer becomes when handling backups that are GBs large. Built in conjunction with [Claude Code](https://claude.ai/code), the core priorities are speed, local-only processing, and ensuring your private data never leaves your machine.
 
 ## Download
 
@@ -32,11 +34,11 @@ No installation needed — just download, double-click, and run.
 - **Export Media ZIP** — Export media files as a ZIP archive, organized by type and contact
 - **Light & Dark Mode** — Toggle between themes, or let it follow your system preference
 - **Scalable UI** — Zoom the interface from 50% to 200%
-- **Large File Support** — Handles backup files up to 10 GB+ via streaming XML parsing
+- **Large File Support** — Handles backup files up to 10 GB+ via streaming XML parsing, far faster than the web-based viewer
 
 ## Privacy & Security
 
-Your data never leaves your machine.
+Privacy was a core motivation for building this app locally rather than relying on a web-based tool. Your data never leaves your machine.
 
 - **No internet required** — the app runs entirely offline with no network requests
 - **No uploads** — reads files directly from disk via file path
