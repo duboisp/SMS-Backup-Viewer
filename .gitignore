@@ -34,3 +34,7 @@ sample_*.xml
 
 # Logs
 *.log
+
+# Prevent commiting backup data
+user_data/
+

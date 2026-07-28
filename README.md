@@ -18,6 +18,14 @@ No installation needed — just download, double-click, and run.
 3. **Open your backup** — enter the path to your `.xml` or encrypted `.zip` file and click **Open**
 4. **Browse your messages** — select a conversation from the sidebar to view messages
 
+### How to build and run localy
+
+1. **Add** your backup files into the folder `user_data`
+2. **Run** `docker compose up`
+3. **Navigate** to `http://localhost:5000`
+4. **Open your backup** — enter the base path `/user_data/` followed by your `.xml` or encrypted `.zip` file and click **Open**
+5. **Browse your messages** — select a conversation from the sidebar to view messages
+
 ### Supported Files
 
 - `.xml` — SMS Backup & Restore backup files (messages or call logs)

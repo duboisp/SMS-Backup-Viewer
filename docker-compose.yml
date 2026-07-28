@@ -1,0 +1,13 @@
+services:
+  sms-viewer:
+    build: .
+    container_name: sms-viewer
+    volumes:
+      - .:/app
+      - type: bind
+        source: user_data
+        target: /user_data
+    ports:
+      - "5000:5000"
+    command: python app.py --host=0.0.0.0
+
